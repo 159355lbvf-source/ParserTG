@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://159355lbvf-source.github.io/ParserTG/sitemap.xml
